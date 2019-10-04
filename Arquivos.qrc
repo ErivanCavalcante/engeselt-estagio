@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icones/account-edit.png</file>
+        <file>Icones/account-plus.png</file>
+        <file>Icones/account-remove.png</file>
+        <file>Icones/account-search.png</file>
+        <file>Icones/delete-outline.png</file>
+        <file>Icones/gender-female.png</file>
+        <file>Icones/gender-male.png</file>
+        <file>Icones/information-outline.png</file>
+        <file>Icones/magnify.png</file>
+        <file>Icones/menu.png</file>
+        <file>Icones/pencil.png</file>
+        <file>Icones/plus.png</file>
+        <file>Icones/close.png</file>
+        <file>Icones/account-check.png</file>
+    </qresource>
+</RCC>
